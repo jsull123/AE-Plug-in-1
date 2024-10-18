@@ -6,13 +6,11 @@ Key Features:
 
 Utilizes the After Effects SDK for deep integration with Adobe After Effects.
 Employs C++ to access Windows library features for enhanced functionality.
-Incorporates JavaScript for easy scripting and automation within After Effects, demonstrating an efficient use of scripting languages to direct software operations.
-The plug-in operates on a hybrid model, embedding JavaScript scripts within C++ code, eliminating the need for external script files for operation.
+Incorporates JavaScript for easy scripting and automation within After Effects.
 
 Project Insights:
 
-Features crafted from personal workflow optimization, such as automatic layer trimming, keyframe regrouping, dynamic marker comments, and linked layer effects, highlight a direct approach to addressing user needs through software solutions.
-This Adobe After Effects plug-in encapsulates a deep understanding of software extension development, leveraging core programming skills to enhance digital content creation workflows.
+Features crafted from personal workflow optimization, such as automatic layer trimming, keyframe regrouping, dynamic marker comments, and linked layer effects
 
 Notes:
 
